@@ -4,3 +4,4 @@ ST-02,Студенти-практиканти,факультет,low,low,neutral
 ST-03,Керівники від великих баз практики,бази практики,high,low,supporter,keep_informed,PM
 ST-04,Керівники від малих баз практики,бази практики,high,low,supporter,keep_informed,PM
 ST-05,Бухгалтерія,академія,high,high,neutral,manage_closely,PM
+ST-06,Служба інформаційної безпеки академії,академія,high,high,blocker,manage_closely,PM
