@@ -5,3 +5,8 @@ ST-03,Керівники від великих баз практики,бази 
 ST-04,Керівники від малих баз практики,бази практики,high,low,supporter,keep_informed,PM
 ST-05,Бухгалтерія,академія,high,high,neutral,manage_closely,PM
 ST-06,Служба інформаційної безпеки академії,академія,high,high,blocker,manage_closely,PM
+ST-07,Спонсор проєкту (керівництво факультету),факультет,high,high,supporter,manage_closely,PM
+ST-08,PM (я),проєкт,high,high,supporter,manage_closely,PM
+ST-09,Dev (розробник),проєкт,high,low,supporter,keep_informed,PM
+ST-10,QA (інженер з якості),проєкт,high,low,supporter,keep_informed,PM
+ST-11,DevOps (інженер з розгортання),проєкт,low,low,neutral,monitor,PM
