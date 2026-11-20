@@ -1,1 +1,5 @@
 role,fte,hours,rate,source,note
+PM,0.5,240,432,https://dou.ua/lenta/articles/salary-report-managers-summer-2026/,Медіана project management 2500 USD проти 3500 у розробників: 0.71 від ставки Dev
+Dev,2.0,960,605,https://dou.ua/lenta/articles/salary-report-devs-summer-2026/,Два розробники на повну зайнятість за однією ставкою; базова ставка для співвідношень
+QA,1.0,480,400,https://dou.ua/lenta/articles/salary-report-qa-summer-2026/,Медіана 2310 USD проти 3500 у розробників: 0.66 від ставки Dev
+DevOps,0.25,120,475,https://dou.ua/lenta/articles/salary-report-devops-summer-2026/,Медіана DevOps-інженерів 2750 USD проти 3500: 0.79 від ставки Dev
